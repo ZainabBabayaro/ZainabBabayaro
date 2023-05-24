@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Zainab</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
-<img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="" align="right" alt="Coding" width="400" >
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zainabbabayaro&label=Profile%20views&color=0e75b6&style=flat" alt="zainabbabayaro" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zainabbabayaro" alt="zainabbabayaro" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/zainab_babayaro" target="blank"><img src="https://img.shields.io/twitter/follow/zainab_babayaro?logo=twitter&style=for-the-badge" alt="zainab_babayaro" /></a> </p>
-
+<img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="" align="right" alt="Coding" width="400" >
 - 🌱 I’m currently learning **VUE JS**
 
 - 👯 I’m looking to collaborate on **Shopify development projects**
