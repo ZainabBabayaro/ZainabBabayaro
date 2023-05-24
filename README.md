@@ -1,32 +1,38 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zainab Babayaro
+=======================================================================================================================================
 
-<h1 align="center">Hi 👋, I'm Zainab</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+Front End Developer
+-------------------
 
+I'm a developer with a deep passion for e-commerce. I pride myself on being honest, passionate, hardworking, and a fast learner. I strive to deliver top-notch results by staying up to date with the latest technologies and trends. Trust me to bring your e-commerce vision to life, as I'm dedicated to providing exceptional solutions with unwavering commitment.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zainabbabayaro&label=Profile%20views&color=0e75b6&style=flat" alt="zainabbabayaro" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zainabbabayaro" alt="zainabbabayaro" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/zainab_babayaro" target="blank"><img src="https://img.shields.io/twitter/follow/zainab_babayaro?logo=twitter&style=for-the-badge" alt="zainab_babayaro" /></a> </p>
-<img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="" align="right" alt="Coding" width="400" >
-- 🌱 I’m currently learning **VUE JS**
-
-- 👯 I’m looking to collaborate on **Shopify development projects**
-
-- 💬 Ask me about **Tailwind**
-
-- 📫 How to reach me **babayarozainab@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+*   🌍  I'm based in Nigeria
+*   ✉️  You can contact me at [babayarozainab@gmail.com](mailto:babayarozainab@gmail.com)
+*   🧠  I'm learning Vue JS
+*   🤝  I'm open to collaborating on E-commerce Projects<a href="https://www.github.com/ZainabBabayaro" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/ZainabBabayaro?logo=github&style=for-the-badge&color=ffffff&labelColor=000000" /></a>### Skills 
 <p align="left">
-<a href="https://twitter.com/zainab_babayaro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zainab_babayaro" height="30" width="40" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zainabbabayaro&show_icons=true&locale=en&layout=compact" alt="zainabbabayaro" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zainabbabayaro&show_icons=true&locale=en" alt="zainabbabayaro" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zainabbabayaro&" alt="zainabbabayaro" /></p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://www.github.com/ZainabBabayaro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.linkedin.com/in/zainab_babayaro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.twitter.com/zainab_babayaro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/ZainabBabayaro"><img src="https://github-readme-stats.vercel.app/api?username=ZainabBabayaro&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="ZainabBabayaro's GitHub stats" /></a><a
+                      href="http://www.github.com/ZainabBabayaro"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=ZainabBabayaro&stroke=ffffff&background=000000&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
+                      href="http://www.github.com/ZainabBabayaro"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ZainabBabayaro&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/ZainabBabayaro" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZainabBabayaro&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
